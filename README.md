@@ -9,6 +9,6 @@ A simple magic 8 ball game clone for android **(means only for android)**.
 5. Click on yes if a dialog box shows up.
 6. If it shows a warning message, then click on **install anyway**.*
 7. After it is installed, click on **open**.
-8. Enjoy the browser!!!
+8. Enjoy the game!!!
 
 *don't be afraid because the app is not verified by google that is why the warning is shown. It won't harm your phone.
